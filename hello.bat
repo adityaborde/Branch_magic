@@ -1,2 +1,2 @@
 echo "Hello world % date % : %time%"
-This is master branch
+echo This is master branch
